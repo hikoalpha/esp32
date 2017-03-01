@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ESP32-WROOM
+D ESP32 ESP32-WROOM module, PCB antenna, 38 pins, 1.27mm.
+K MODULE ESP32
+F https://espressif.com/sites/default/files/documentation/esp_wroom_32_datasheet_en.pdf
+$ENDCMP
+#
+#End Doc Library
